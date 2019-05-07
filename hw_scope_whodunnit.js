@@ -155,7 +155,7 @@ const declareMurderer = function() {
 changeMurderer();
 const verdict = declareMurderer();
 console.log(verdict);
-// The murderer is Colonel Mustard.
+// The murderer is Colonel Mustard. X wrong - Mr Green.
 //
 // #### Episode 8
 //
@@ -211,7 +211,7 @@ const declareMurderer = function() {
 
 const verdict = declareMurderer();
 console.log(verdict);
-// The murderer is Mrs. Peacock
+// The murderer is Mrs. Peacock Xwrong - Professor Plum
 
 // ### Extensions
 //
